@@ -1,0 +1,10 @@
+*.pyc
+/backend/tapp/db.sqlite3
+.DS_Store
+.env
+*/settings/local.py
+/staticfiles/*
+/mediafiles/*
+__pycache__/
+/.vscode/
+/backend/tapp/venv

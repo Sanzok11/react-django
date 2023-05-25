@@ -1,0 +1,70 @@
+.login-form {
+    max-width: 300px;
+    margin: auto;
+    margin-top: 10vh;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form-title {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 24px;
+    color: #1890ff;
+  }
+  
+  .login-form-forgot {
+    float: right;
+  }
+  
+  .login-form-button {
+    width: 100%;
+    background-color: #1890ff;
+    border-color: #1890ff;
+  }
+  
+  .login-form-button:hover {
+    background-color: #40a9ff;
+    border-color: #40a9ff;
+  }
+  
+  .login-form-button:active {
+    background-color: #096dd9;
+    border-color: #096dd9;
+  }
+  
+  .login-form-forgot:hover {
+    color: #40a9ff;
+  }
+  
+  .login-form-forgot:active {
+    color: #096dd9;
+  }
+  
+  .login-form-forgot:focus {
+    color: #1890ff;
+  }
+  
+  .login-form-forgot a:hover {
+    color: #40a9ff;
+  }
+  
+  .login-form-forgot a:active {
+    color: #096dd9;
+  }
+  
+  .login-form-forgot a:focus {
+    color: #1890ff;
+  }
+  
+  .ant-form-item-control-input-content {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .login-form-forgot {
+    float: right;
+  }
+  
